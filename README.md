@@ -17,13 +17,13 @@ Speedrun tarzı genellikle oyuncular arasında yarışmaların yapıldığı bir
 Eğer ki Twitch'te orda burda YouTube'de falan GTA:SA Speedrun yapan birilerini gördüyseniz;
 
 Türkçe olarak:
-- [Glomerius](https://www.twitch.tv/glomerius) (%Any% Dünya 2.)
+- [Glomerius](https://www.twitch.tv/glomerius) (%Any% Dünya 1.)
 - [TopalMuharrem](https://www.twitch.tv/topalmuharrem)
-- [Kaan](https://www.youtube.com/@KaanBykl)
+- [Ancoboy](https://www.speedrun.com/users/Ancoboy)
 
 Yabancı olarak:
 
-- [otto,petrus](https://www.twitch.tv/backshotdealer) (%Any% Dünya 1.)
+- [otto,petrus](https://www.twitch.tv/backshotdealer) (%Any% Dünya 2.)
 - [Pape1337](https://www.twitch.tv/pape1337) (NMG Dünya 1.)
 - [Crucial](https://www.twitch.tv/crucial) (%100 Dünya 1.)
 
@@ -100,7 +100,7 @@ Bu kısım eğer ki GTA:SA Speedrun serüvenine başlayacaksanız en ideal yerdi
 Aslında çokta önemli olmayan, ama hadi öylesine koyalım denilen veya bir nevi **Challenge** olarak yapılan **Speedrun** kategorileri. Buna örnek olarak;
 
 - Los Santos (Sadece Los Santos'ta olan görevleri bitirmek.)
-- Any Cheats% (Oyunu oyun içi hileler kullanarak ''HESOYAM, AEZAKMI'' bitirebilmek.)
+- Any Cheats% (Oyunu oyun içi hileler kullanarak ''HESOYAM, AEZAKMI vb.'' bitirebilmek.)
 - Any MDvMMw/CE (Oyunu Cheat Engine ile oyunun kodlarını ve oyun hafızasına manipüle ederek (normalde yasak) oyunu bitirmeye çalıştığınız bölüm. Kısaca anlatmak gerekirse On Mission Changer serbest.) (Eğer ne anlattığımı anlamadıysan sen bütün burayı bi yala yut, sonra tekrar gel anlarsın.)
 - Any% OHKO (Çılgınlar için yapılmış bir bölüm. SADECE 1 CAN İLE (evet yanlış okumadın) oyunun görev kısmını bitirmek.)
 - 100% OHKO (Üsttekini gerçektende çılgın buldun demek. SADECE 1 CAN İLE oyunu %100 bitirmek. Evet %100. ve 1 can ile.)
