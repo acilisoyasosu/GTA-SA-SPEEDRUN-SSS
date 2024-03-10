@@ -194,5 +194,8 @@ xx bahsettiğim kısım burası. Remastered kısmı ise Windows store ve mobil k
 Şimdi siteyi öğrendik, başlamak için istediğimiz kategoriyi seçtik. Şimdi oyuna kurulum yapma zamanı.
 
 
+KURULUM NASIL YAPILIR?
+
+
 
 This site was built using [GitHub Pages](https://pages.github.com/).
