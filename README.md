@@ -17,13 +17,13 @@ Speedrun tarzı genellikle oyuncular arasında yarışmaların yapıldığı bir
 Eğer ki Twitch'te orda burda YouTube'de falan GTA:SA Speedrun yapan birilerini gördüyseniz;
 
 Türkçe olarak:
-- [Glomerius](https://www.twitch.tv/glomerius) (%Any% Dünya 1.)
+- [Glomerius](https://www.twitch.tv/glomerius) (Any% Dünya 1.)
 - [TopalMuharrem](https://www.twitch.tv/topalmuharrem)
-- [Ancoboy](https://www.speedrun.com/users/Ancoboy)
+- [Ancoboy](https://www.speedrun.com/users/Ancoboy) (GTA yayıncısı değil)
 
 Yabancı olarak:
 
-- [otto,petrus](https://www.twitch.tv/backshotdealer) (%Any% Dünya 2.)
+- [otto,petrus](https://www.twitch.tv/backshotdealer) (Any% Dünya 2.)
 - [Pape1337](https://www.twitch.tv/pape1337) (NMG Dünya 1.)
 - [Crucial](https://www.twitch.tv/crucial) (%100 Dünya 1.)
 
